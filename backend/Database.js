@@ -14,7 +14,7 @@ database: "guestbook",
 connectionLimit: 10
     })
 
-
+//MySQL databases are relational.
     //we now log result from mysql now database, xampp connected phpmyadmin, database 
     //mysql connection!!
     //database table createpool localhost host, then database then pool.query
